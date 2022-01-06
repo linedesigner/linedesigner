@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @linedesigner
-- 👀 I’m interested in homeassistant, raspberry pi, retro gaming, scripting, UE4, modeling, sketching, coding, python, php, nginx, linux etc...
+- 👀 I’m interested in Metaverse, blockchain, Coins, homeassistant, raspberry pi, retro gaming, scripting, UE4, modeling, sketching, coding, python, php, nginx, linux etc...
 - 🌱 I’m currently learning python. 
-- 📫 How to reach me u can trace linedesigner net site. I wont write it all coz of the bots. 
+- 📫 How to reach me? u can trace linedesigner net site. I wont write it all coz of the bots. 
 
 
 <!---
